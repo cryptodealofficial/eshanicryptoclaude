@@ -10,3 +10,16 @@ claude code is only available on pro and max plans, so make sure you’re subscr
 once logged in, click “code” at the top left. it’ll take you to the claude code interface. it might look confusing at first, but it’s straightforward.
 
  https://claude.com/download
+→ set up your workspace. 
+
+above the chat box, you’ll see options to choose where claude code works from:
+
+local: runs on your pc. you’ll need to select a folder (e.g. “x content” folder).
+cloud: runs online. you’ll connect your github and select a repo to work from.
+
+claude code needs this workspace to operate, save files, and remember your sessions.
+
+think of it like:
+
+- local = working from your personal computer
+- cloud = working remotely via github
